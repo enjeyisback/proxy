@@ -1,0 +1,72 @@
+.free-ip-lookup-widget
+{
+	width: 100%;
+    background: transparent;
+    position: relative;
+    min-height: 150px;
+    padding: 10px;
+    border: solid 1px #dcdbdb;
+}
+
+.fi-your-ip-address
+{
+	margin: -10px;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    background: #1d2d43;
+
+}
+
+.fi-ip-address{
+	width: 100%;
+    font-size: 30px!important;
+    color: #000;
+    text-align: center;
+    padding: 0!important;
+    margin-top: 30px!important;
+    font-weight: 600!important;
+}
+
+
+.fi-locations
+{
+	color: #000;
+    margin: 0;
+    padding: 0;
+    font-size: 15px!important;
+    margin: 0!important;
+    font-weight: 300!important;
+}
+
+.fi-location-container{
+	display: flex;
+    align-items: center;
+    /*width: calc(100% - 70px);*/
+    width: 100%;
+    justify-content: center;
+}
+
+.fi-country-flag{
+	width: 19px;
+	height: 14px;
+	margin-right: 10px;
+}
+
+.fi-additional-links{
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.fi-additional-link-item{
+	color: #000 !important;
+	padding: 5px !important;
+	text-decoration: underline !important;
+}
+
+.fi-additional-link-item a:link{
+	color: #000 !important;
+}	
